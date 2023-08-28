@@ -179,6 +179,11 @@ Programming projects require considerable amount of time outside of class. I adv
 
 ### Submission & Late Policy.
 * Late penalty is 20% first day, non-first day 10% per day (unless otherwisestated in the assignment). Weekend counts as one weekday. Projects will not be accepted after one week late.
+* Some projects may have a code review after.  If that is the case,
+  there will be a deadline that your project must be in by in order
+  to participate in the code review.  If your project is not in by that
+  date, then you will be unable to particpate in the code review and will
+  not receive credit for that portion of the project.
 * You will be required to demo your project to the instructor.  
 * Any part of a project that works, but that you are unable to explain why or how is considered "non-functional" and may result in a reduction of points after the fact (and depending on the circumstances, may be academic misconduct).
 
