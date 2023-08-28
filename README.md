@@ -41,9 +41,10 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  06  | 10/02 - 10/06 | Abstract Classes/Interfaces | Project 2 due <br> Project 3 assigned <br> test 2 | [Debugger Documentation](https://docs.python.org/3/library/pdb.html) |  
 |  07  | 10/09 - 10/13 | Testing | lab5 | |
 |  08  | 10/16 - 10/20 | Recursion | lab 6 | |
+|  09  | 10/23 - 10/27 | No class 10/23 (Fall Break) Recursion | lab7 | |
 |  09  | 11/06 - 11/10 | Algorithmic Analysis | test3 |  |
-|  10  | 10/23 - 10/27 | Data Structures 1 | lab7 | Ch10 |
-|  11  | 10/30 - 11/03 | Data Structures 2 | Project 3 due <br> Final project assigned <br> lab8 | |
+|  10  | 10/23 - 10/27 | Data Structures 1 | lab8 | Ch10 |
+|  11  | 10/30 - 11/03 | Data Structures 2 | Project 3 due <br> Final project assigned <br> lab9 | |
 |  12  | 11/13 - 11/17 | Searching/Sorting | test4 | |
 |  13  | 11/20 - 11/24 | Thanksgiving Break - no class 11/22 and 11/24 <br> Searching/Sorting | Final project due | |
 |  14  | 11/27 - 12/01 | Modules/Importing/Code Reuse | lab10 | |
