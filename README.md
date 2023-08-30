@@ -33,7 +33,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 
 | Week | Date          | Topics | TODOs | Reading |
 | ---- | ------------- | ------ | ----- | ------- |
-|  01  | 08/28 - 09/01 | 162 Review <br> docstrings  | Project 1 assigned <br> [lab1](misc-files/lab1.md) | Ch07 and [Pep8 Documentation](https://peps.python.org/pep-008) |
+|  01  | 08/28 - 09/01 | 162 Review <br> docstrings  | Project 1 assigned <br> [lab1](misc-files/lab1/lab1.md) | Ch07 and [Pep8 Documentation](https://peps.python.org/pep-008) |
 |  02  | 09/04 - 09/08 | No class 09/04 <br> UML <br> Classes and Objects | test 1 | Ch01 and Ch02 (skip sec on modules and packages) |
 |  03  | 09/11 - 09/15 | Inheritance  | Project 1 due <br> Project 2 assigned <br> lab2 | Ch03 |
 |  04  | 09/18 - 09/22 | Inheritance/Polymorphism | lab3 | Ch05 |
