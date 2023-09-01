@@ -7,7 +7,7 @@ Office:  C-2-211 MAK
 
 Office Hours: 
   * Mondays 3:30pm - 4:25pm
-  * Wednesdays 1:00pm - 1:55pm
+  * Wednesdays 11:00am - 11:55am
   * Fridays 11:00am - 11:55am
 
 
