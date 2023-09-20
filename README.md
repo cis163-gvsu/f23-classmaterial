@@ -36,7 +36,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  01  | 08/28 - 09/01 | 162 Review <br> [matplotlib demo](misc-files/lec-demos/plotting.py)  | Project 1 assigned <br> [lab1](misc-files/lab1/lab1.md) | Ch07 (except queues/stacks) and [Pep8 Documentation](https://peps.python.org/pep-008) |
 |  02  | 09/04 - 09/08 | No class 09/04 <br> [docstrings](lec-notes/lec04-pep.pdf) <br> UML <br> Classes and Objects | test 1 | Ch01 and Ch02 (skip sec on modules and packages) |
 |  03  | 09/11 - 09/15 | [Mon/Wed:  OO/UML](lec05-oo.pdf) <br> Inheritance  | [Project 1 due Friday, 09/15 @ 11:59pm](https://us.prairielearn.com/pl/course_instance/141391/assessment/2362787) <br> Project 2 assigned <br> [lab2](misc-files/lab2/lab2.md) | Ch03 |
-|  04  | 09/18 - 09/22 | Inheritance/Polymorphism | lab3 | Ch05 |
+|  04  | 09/18 - 09/22 | Inheritance/Polymorphism | [lab3](https://us.prairielearn.com/pl/course_instance/141391/assessment/2367140) | Ch05 |
 |  05  | 09/25 - 09/29 | Exception Handling | lab4 | Ch06 |
 |  06  | 10/02 - 10/06 | Abstract Classes/Interfaces | Project 2 due <br> Project 3 assigned <br> test 2 | [Debugger Documentation](https://docs.python.org/3/library/pdb.html) |  
 |  07  | 10/09 - 10/13 | Testing | lab5 | |
