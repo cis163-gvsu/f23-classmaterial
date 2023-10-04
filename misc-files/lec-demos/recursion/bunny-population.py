@@ -7,15 +7,24 @@ def piterative(n):
             lst.append(lst[i-1] + lst[i-2])
     return lst
 
-def precursive(n):
+def precursive(n, prev_results):
+    if n in prev_results:
+        print(f'called pr({n}) - knew answer')
+        return prev_results[n]
+    else:
+        print(f'called pr({n}) - computing answer')
     # base case
     if n == 1:
-        return 1
-    if n == 2:
-        return 1
+        my_result =  1
+    elif n == 2:
+        my_result = 1
     # recursive case
-    return precursive(n-1) + precursive(n-2)
+    else:
+        my_result = precursive(n-1, prev_results) + precursive(n-2, prev_results)
+    prev_results[n] = my_result
+    #print(prev_results)
+    return my_result
 
-print(precrusive(6))
+print(precursive(20, {10:55, 9:34}))
 print(piterative(6))
 
