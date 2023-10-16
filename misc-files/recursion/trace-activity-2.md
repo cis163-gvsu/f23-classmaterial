@@ -27,12 +27,12 @@ mystery(6)
 ### Output
 What is the output of this code?
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ### Recursive Call Graph
 Draw the graph of the recursive calls for each call to `mystery_helper`
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 ### Recursive Call Graph
