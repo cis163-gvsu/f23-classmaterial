@@ -43,7 +43,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  08  | 10/16 - 10/20 | [Mon: recursion activity](https://github.com/cis163-gvsu/f23-classmaterial/blob/main/misc-files/recursion/trace-activity-2.md) <br> [Wed: Properties](lec-notes/lec12-properties.pdf) <br> Fri: project 3 discussion | [lab 6 - extended deadline to Friday 10/27](https://us.prairielearn.com/pl/course_instance/141391/assessment/2372486) | |
 |  09  | 10/23 - 10/27 | No class 10/23 (Fall Break) <br> [Testing part 1](lec-notes/lec13-testing.pdf) <br> [testing demo code](misc-files/testing/test.py) <br> [Testing part 2](lec-notes/lec14-testing.pdf) | [Project 3 assigned](https://us.prairielearn.com/pl/course_instance/141391/assessment/2373674) <br> lab7 | |
 |  10  | 10/30 - 11/03 | Tracing 2D Recursive Code <br> [code example from class](misc-files/recursion/trace-2d.py) <br> [corrected code with questions](misc-files/recursion/trace-2d-corrected-activity.md) <br> [Wed: algorithmic analysis](lec-notes/lec16-algorithm-analysis.pdf) <br> [Fri: sorting](lec-notes/lec17-sorting-bubble.pdf) | test3 |  |
-|  11  | 11/06 - 11/10 | [Mon: sorting - selection and mergesort](lec-notes/lec18-sorting-selection-mergesort.pdf) | Project 3 due Wednesday, 11/15 @ 11:59pm <br> Final project assigned <br> lab8 | Ch10 |
+|  11  | 11/06 - 11/10 | [Mon: sorting - selection and mergesort](lec-notes/lec18-sorting-selection-mergesort.pdf) | Project 3 due Friday, 11/17 @ 11:59pm <br> Final project assigned <br> lab8 | Ch10 |
 |  12  | 11/13 - 11/17 | Searching/Sorting | test4 | |
 |  13  | 11/20 - 11/24 | Thanksgiving Break - no class 11/22 and 11/24 <br> Searching/Sorting | Final project due | |
 |  14  | 11/27 - 12/01 | Modules/Importing/Code Reuse | lab10 | |
