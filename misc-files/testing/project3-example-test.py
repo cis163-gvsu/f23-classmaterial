@@ -15,9 +15,7 @@ class TestCharacter(unittest.TestCase):
         health_after = c.health
         self.assertEqual(health_before, health_after)
 
-    def test_monster_death(self):
-        m = Monster('blah')
-        m.health = -1
+
 
 if __name__ == '__main__':
     unittest.main()
