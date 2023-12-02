@@ -41,11 +41,11 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  06  | 10/02 - 10/06 | [Recursion trace activity](misc-files/recursion/trace-activity.md) <br> [Wed: reference tracing activity](misc-files/references/reference-tracing-activity.md) | [Project 2 due Monday, 10/09 @ 11:59pm](https://us.prairielearn.com/pl/course_instance/141391/assessment/2367933)  <br> test 2 | |  
 |  07  | 10/09 - 10/13 | [Mon: exceptions](lec-notes/lec10-exceptions.pdf) <br> [Mon: exception demo](misc-files/exceptions/demo.py) <br> [Mon: exception tracing activity](misc-files/exceptions/trace-activity.md) <br> [Wed: exception demo2](misc-files/exceptions/demo2.py) <br> [Fri: exception trace activity advanced](misc-files/exceptions/trace-activity-advanced.md) | [lab5](https://us.prairielearn.com/pl/course_instance/141391/assessment/2371463) | [Debugger Documentation](https://docs.python.org/3/library/pdb.html)  |
 |  08  | 10/16 - 10/20 | [Mon: recursion activity](https://github.com/cis163-gvsu/f23-classmaterial/blob/main/misc-files/recursion/trace-activity-2.md) <br> [Wed: Properties](lec-notes/lec12-properties.pdf) <br> Fri: project 3 discussion | [lab 6 - extended deadline to Friday 10/27](https://us.prairielearn.com/pl/course_instance/141391/assessment/2372486) | |
-|  09  | 10/23 - 10/27 | No class 10/23 (Fall Break) <br> [Testing part 1](lec-notes/lec13-testing.pdf) <br> [testing demo code](misc-files/testing/test.py) <br> [Testing part 2](lec-notes/lec14-testing.pdf) | [Project 3 assigned](https://us.prairielearn.com/pl/course_instance/141391/assessment/2373674) <br> lab7 | |
+|  09  | 10/23 - 10/27 | No class 10/23 (Fall Break) <br> [Testing part 1](lec-notes/lec13-testing.pdf) <br> [testing demo code](misc-files/testing/test.py) <br> [Testing part 2](lec-notes/lec14-testing.pdf) | [Project 3 assigned](https://us.prairielearn.com/pl/course_instance/141391/assessment/2373674) | |
 |  10  | 10/30 - 11/03 | Tracing 2D Recursive Code <br> [code example from class](misc-files/recursion/trace-2d.py) <br> [corrected code with questions](misc-files/recursion/trace-2d-corrected-activity.md) <br> [Wed: algorithmic analysis](lec-notes/lec16-algorithm-analysis.pdf) <br> [Fri: sorting](lec-notes/lec17-sorting-bubble.pdf) | test3 |  |
-|  11  | 11/06 - 11/10 | [Mon: sorting - selection and mergesort](lec-notes/lec18-sorting-selection-mergesort.pdf) | Project 3 due Friday, 11/17 @ 11:59pm <br> Final project assigned <br> lab8 | Ch10 |
-|  12  | 11/13 - 11/17 | Searching/Sorting | test4 | |
-|  13  | 11/20 - 11/24 | Thanksgiving Break - no class 11/22 and 11/24 <br> Searching/Sorting | Final project due | |
-|  14  | 11/27 - 12/01 | Modules/Importing/Code Reuse | lab10 | |
-|  15  | 12/04 - 12/08 | Review | test 5 | | 
-|      | 12/09         | FINAL EXAM Saturday, December 9, 2023 <br> 9:00AM - 10:50AM |  |  |
+|  11  | 11/06 - 11/10 | [Mon: sorting - selection and mergesort](lec-notes/lec18-sorting-selection-mergesort.pdf) <br> Wed: searching / insertion sort <br> Fri: quicksort | Project 3 due Friday, 11/17 @ 11:59pm < <br> [lab7](https://us.prairielearn.com/pl/course_instance/141391/assessment/2376314) | Ch10 |
+|  12  | 11/13 - 11/17 | Sorting Algorithms - Complexity Analysis | test4 | |
+|  13  | 11/20 - 11/24 | Thanksgiving Break - no class 11/22 and 11/24 <br> Project 3 demos |  | |
+|  14  | 11/27 - 12/01 | Linked List <br> Stacks | [lab10](https://us.prairielearn.com/pl/course_instance/141391/assessment/2380274) | |
+|  15  | 12/04 - 12/08 | Stacks/Queues <br> Review | test 5 | [Project 4 Due Friday, 12/08 @ 11:59pm](https://us.prairielearn.com/pl/course_instance/141391/assessment/2380869) | 
+|      | 12/09         | FINAL EXAM Saturday, December 9, 2023 <br> 9:00AM - 10:50AM <br> Manitou 102 |  |  |
