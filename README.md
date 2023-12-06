@@ -47,5 +47,5 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  12  | 11/13 - 11/17 | Sorting Algorithms - Complexity Analysis <br> Linked Lists | test4 | |
 |  13  | 11/20 - 11/24 | Thanksgiving Break - no class 11/22 and 11/24 <br> Project 3 demos |  | |
 |  14  | 11/27 - 12/01 | Linked List <br> Stacks | [lab10](https://us.prairielearn.com/pl/course_instance/141391/assessment/2380274) | |
-|  15  | 12/04 - 12/08 | Stacks/Queues <br> Review | test 5 | [Project 4 Due Friday, 12/08 @ 11:59pm](https://us.prairielearn.com/pl/course_instance/141391/assessment/2380869) | 
+|  15  | 12/04 - 12/08 | Stacks/Queues <br> Review | test 5 <br> [Project 4 Due Friday, 12/08 @ 11:59pm](https://us.prairielearn.com/pl/course_instance/141391/assessment/2380869) |  | 
 |      | 12/09         | FINAL EXAM Saturday, December 9, 2023 <br> 9:00AM - 10:50AM <br> Manitou 102 |  |  |
